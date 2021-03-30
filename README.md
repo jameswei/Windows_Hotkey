@@ -1,5 +1,4 @@
 # Windows Hotkey
----
 
 ## What and Why ?
 
