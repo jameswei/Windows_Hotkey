@@ -32,7 +32,7 @@ ToggleTerminal()
     }
     else
     {
-        Run, wt.ext
+        Run, wt.exe
         ShowTerminal()
     }
 }
